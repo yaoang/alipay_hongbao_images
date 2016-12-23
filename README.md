@@ -1,5 +1,5 @@
-# alipay_hongbao_images
-支付包AR红包黑线去除算法
+# 支付包AR红包黑线去除小程序
+支付包AR红包黑线去除小程序
 
 直接修改getMoney.py
 自己根据图片不同情况，去修改参数：  
