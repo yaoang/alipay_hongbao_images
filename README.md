@@ -1,5 +1,8 @@
 # 支付包AR红包黑线去除小程序
 支付包AR红包黑线去除小程序
+--------------
+Author: yaoang
+weixin: fyan888
 
 尽量使用iphone_6sp那个，第一个程序已经停止维护。  
 目前主要针对iphone6sp进行升级。  
