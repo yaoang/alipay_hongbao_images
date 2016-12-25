@@ -2,13 +2,13 @@
 # created by yao
 # 2016.12.23
 from PIL import Image
-im = Image.open('IMG_0170.PNG')
+im = Image.open('IMG_0257.PNG')
 
 imgWidth = 570 # width of the image you cut off
 startX = 307
 startY = 972 # the first line position-y
 splitPoxis = 18 # split height
-blackHeigh = 8 # black line height
+blackHeigh = 9 # black line height
 maxLineNumber = 27
 
 
@@ -31,5 +31,5 @@ for index in range(1,maxLineNumber):
     pasteImg( startY, index )
 
 
-im.save('IMG_0170.dealed.jpg')
+im.save('IMG_0257.dealed.jpg')
 im.show()
