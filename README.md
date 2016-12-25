@@ -30,7 +30,13 @@ _直接修改getMoney.py  [已过期]  <br />
     im = Image.open('IMG_0257.PNG')  
 	
 	
-* 保存，运行程序：  
+* 保存，在命令行下运行如下程序：  
 
 	_python getMoney\_iphone\_6sp.py_   
 	
+* 如果没有安装pillow，先安装  
+	_pip install Pillow_
+	
+* 程序会自动打开图片，扫描就行。
+
+![效果](src/1259254829.dealed.jpg)
