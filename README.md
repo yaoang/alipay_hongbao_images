@@ -32,5 +32,5 @@ _直接修改getMoney.py  [已过期]  <br />
 	
 * 保存，运行程序：  
 
-	_python \_getMoney\_iphone\_6sp.py_   
+	_python getMoney\_iphone\_6sp.py_   
 	
