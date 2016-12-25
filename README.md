@@ -12,7 +12,7 @@ weixin: fyan888(加微信主要是交流)
 >> 大家如果手机不是iphone 6sp，可以自行修改参数。每台手机修改好的参数可以在备注加上[修改者]自己的名称，发给我进行上传利益大家，欢迎贡献。  
 >> 请不要不停要求我给每台手机修改参数，大家都是程序员，应该有调整参数的能力。大家一起来贡献才有意思，作为程序员，不要习惯性拿来主义，甚至抱怨我不给你家里的手机修改参数。  
 
-直接修改getMoney.py
+直接修改getMoney.py  [已过期]  
 自己根据图片不同情况，去修改参数：  
 `imgWidth = 370` # width of the image you cut off  
 `startY = 10` # the first line position-y  
@@ -22,3 +22,7 @@ weixin: fyan888(加微信主要是交流)
 
 第二个程序getMoney_iphone_6sp.py 更实用  
 直接全屏抓图，也是修改参数就行。(其实与第一个没有本质差别)  
+.修改图片名，  
+`im = Image.open('IMG_0257.PNG')`
+保存，运行程序：  
+`python getMoney_iphone_6sp.py`  
