@@ -28,15 +28,21 @@ _直接修改getMoney.py  [已过期]  <br />
 * 修改图片名，  
 
     im = Image.open('IMG_0257.PNG')  
-	
+
+* 如果没有安装pillow（报错），先安装 Pillow
+    
+	_pip install Pillow_	
 	
 * 保存，在命令行下运行如下程序：  
 
 	_python getMoney\_iphone\_6sp.py_   
-	
-* 如果没有安装pillow，先安装  
-	_pip install Pillow_
+
 	
 * 程序会自动打开图片，扫描就行。
 
-![效果](src/1259254829.dealed.jpg)
+![效果](src/xy.jpg)  
+（XY说明, 网友“黑壳花生”P图处理）  
+
+
+![效果](src/1259254829.dealed.jpg)  
+（生成效果）
