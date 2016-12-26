@@ -21,6 +21,14 @@ _直接修改getMoney.py  [已过期]  <br />
     splitPoxis = 13 # split height  
     blackHeigh = 6 # black line height  
     maxLineNumber = 27  #numbers of the black lines
+
+---
+
+    imgWidth = 370 # 中间图片的宽度  
+    startY = 10 # 第一条黑线的Y轴    
+    splitPoxis = 13 # 黑线分隔    
+    blackHeigh = 6 # 黑线高度    
+    maxLineNumber = 27  # 黑线数量  
     
 
 第二个程序getMoney_iphone_6sp.py 更实用  
